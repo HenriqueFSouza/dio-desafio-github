@@ -3,3 +3,9 @@ Iniciar um diretório: mkdir "nome do diretório"
 Inciar um repositório: git init 
 
 Consultar as alterações em stage: git status 
+
+Para preparar todas as alterações para serem comitadas: git add . 
+
+Para realizar um commit: git commit -m "mensagem desejada no commit"
+
+Para Sincronizar as alterações com o repositório remoto: git push origin master 
