@@ -1,0 +1,5 @@
+Iniciar um diretório: mkdir "nome do diretório"
+
+Inciar um repositório: git init 
+
+Consultar as alterações em stage: git status 
